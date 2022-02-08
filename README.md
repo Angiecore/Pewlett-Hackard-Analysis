@@ -1,2 +1,25 @@
-# Pewlett-Hackard-Analysis
-To build a database with SQL by applying data modeling, engineering and analysis.
+### Pewlett-Hackard-Analysis
+
+## Overview of the analysis
+
+The purpose of this analysis is to build a database with SQL by applying data modeling, engineering and analysis. For this assignment, we have to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
+
+
+## Results
+
+There is a bulleted list with four major points from the two analysis deliverables.
+
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+
+
+## Summary
+
+The summary addresses the two questions and contains two additional queries or tables that may provide more insight.
+
+Summary: 
+
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
