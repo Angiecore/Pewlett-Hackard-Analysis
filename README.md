@@ -45,12 +45,9 @@ The purpose of this analysis is to build a database with SQL by applying data mo
 
 ## Summary
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight.
+-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-Summary: 
-
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
+According to this analysis 90,398 roles will need to be filled as the "Silver Tsunami" begins.
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+From the retiring population there are 1549 senior employees that are candidates for the mentorship eligibility program which is not enough to cover the positions.
