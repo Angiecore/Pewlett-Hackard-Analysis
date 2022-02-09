@@ -7,8 +7,6 @@ The purpose of this analysis is to build a database with SQL by applying data mo
 
 ## Results
 
-There is a bulleted list with four major points from the two analysis deliverables.
-
  ***Retiring Titles*** 
 
 * A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955. 
