@@ -1,6 +1,6 @@
 # **Pewlett-Hackard-Analysis**
 
-## Overview of the analysis
+## Overview of the Analysis
 
 The purpose of this analysis is to build a database with SQL by applying data modeling, engineering and analysis. For this assignment, we have to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 
