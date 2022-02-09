@@ -51,4 +51,4 @@ According to this analysis 90,398 roles will need to be filled as the "Silver Ts
 
 -Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-From the retiring population there are 1549 senior employees that are candidates for the mentorship eligibility program which is not enough to cover the positions.
+From the retiring group, there are 1549 employees that are candidates for the mentorship eligibility program which is not enough to start the process.
