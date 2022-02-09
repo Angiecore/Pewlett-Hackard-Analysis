@@ -1,4 +1,4 @@
-### Pewlett-Hackard-Analysis
+# Pewlett-Hackard-Analysis
 
 ## Overview of the analysis
 
@@ -9,7 +9,7 @@ The purpose of this analysis is to build a database with SQL by applying data mo
 
 There is a bulleted list with four major points from the two analysis deliverables.
 
-* Retiting Titles: A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955. Based on the analysis, 90,398 employees are eligible for retirement.
+* **Retiting Titles:** A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955. Based on the analysis, 90,398 employees are eligible for retirement.
 
 ![image](https://user-images.githubusercontent.com/95327338/153115922-f7124946-ef8d-4c86-8494-fb0307e62cad.png)
 
