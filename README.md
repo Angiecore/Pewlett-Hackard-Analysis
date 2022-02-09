@@ -18,7 +18,11 @@ There is a bulleted list with four major points from the two analysis deliverabl
 
 ![image](https://user-images.githubusercontent.com/95327338/153113529-c2c9b480-adc8-43f5-affa-2146273cd351.png)
 
-* ***Unique Titles:***
+ ***Unique Titles***
+ 
+ * A query is written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.
+
+![image](https://user-images.githubusercontent.com/95327338/153120942-a6f2a4d4-48ab-4fc3-9b76-34a3055432a2.png)
 
 ![image](https://user-images.githubusercontent.com/95327338/153113682-ded6e1c1-3451-43aa-8088-6b456fb93814.png)
 
@@ -30,13 +34,15 @@ There is a bulleted list with four major points from the two analysis deliverabl
 
 ![image](https://user-images.githubusercontent.com/95327338/153113802-e7e6100f-530c-4326-83ff-a297a1ef47f0.png)
 
-* ***Mentoship Elegibility:***
+***Mentoship Elegibility***
+
+* I wrote a query to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program.
+* I used a DISTINCT ON statement to retrieve the first occurrence of the employee number for each set of rows.
+* Also, the total eligible to participate in a mentorship program is 1549 employees.
+
+![image](https://user-images.githubusercontent.com/95327338/153121808-5404de30-96ac-4766-97ac-5878f3c07c1e.png)
 
 ![image](https://user-images.githubusercontent.com/95327338/153113892-af8b69b4-2656-4a4b-b0df-02f92e887f82.png)
-
-
-
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 
 ## Summary
